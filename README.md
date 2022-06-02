@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sagarydv002
+- 👀 I’m interested in Learning new things related to tech
+- 🌱 I’m currently learning  full stack web development
+- 💞️ I’m looking to collaborate only in my personal project
+- 📫 You can reach me --> sagartdl2002@gmail.com
